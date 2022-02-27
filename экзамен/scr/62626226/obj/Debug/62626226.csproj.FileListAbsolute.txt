@@ -1,0 +1,30 @@
+C:\Users\sss\source\repos\62626226\62626226\bin\Debug\62626226.exe.config
+C:\Users\sss\source\repos\62626226\62626226\bin\Debug\62626226.exe
+C:\Users\sss\source\repos\62626226\62626226\bin\Debug\62626226.pdb
+C:\Users\sss\source\repos\62626226\62626226\obj\Debug\62626226.csproj.AssemblyReference.cache
+C:\Users\sss\source\repos\62626226\62626226\obj\Debug\62626226.csproj.SuggestedBindingRedirects.cache
+C:\Users\sss\source\repos\62626226\62626226\obj\Debug\62626226.csproj.CoreCompileInputs.cache
+C:\Users\sss\source\repos\62626226\62626226\obj\Debug\62626226.exe
+C:\Users\sss\source\repos\62626226\62626226\obj\Debug\62626226.pdb
+C:\Users\sss\source\repos\62626226\62626226\obj\Debug\_62626226.Form1.resources
+C:\Users\sss\source\repos\62626226\62626226\obj\Debug\62626226.csproj.GenerateResource.cache
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\bin\Debug\62626226.exe.config
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\bin\Debug\62626226.exe
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\bin\Debug\62626226.pdb
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\obj\Debug\62626226.csproj.AssemblyReference.cache
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\obj\Debug\62626226.csproj.SuggestedBindingRedirects.cache
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\obj\Debug\_62626226.Form1.resources
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\obj\Debug\62626226.csproj.GenerateResource.cache
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\obj\Debug\62626226.csproj.CoreCompileInputs.cache
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\obj\Debug\62626226.exe
+C:\Users\sss\Desktop\62626226 — копия — копия\62626226\obj\Debug\62626226.pdb
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\bin\Debug\62626226.exe.config
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\bin\Debug\62626226.exe
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\bin\Debug\62626226.pdb
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\obj\Debug\62626226.csproj.AssemblyReference.cache
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\obj\Debug\62626226.csproj.SuggestedBindingRedirects.cache
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\obj\Debug\_62626226.Form1.resources
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\obj\Debug\62626226.csproj.GenerateResource.cache
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\obj\Debug\62626226.csproj.CoreCompileInputs.cache
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\obj\Debug\62626226.exe
+C:\Users\sss\Desktop\ekzam,en\scr\62626226\obj\Debug\62626226.pdb
